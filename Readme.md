@@ -1,10 +1,4 @@
 # Personal Portfolio 🔥
->
-
-:star: Star me on GitHub — it helps!
-
-
-
 
 ## Sections 📚
 ✔️ About\
